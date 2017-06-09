@@ -16,7 +16,7 @@ http://172.16.11.179:8005/cgi-bin/webmo/login.cgi
 7. WebMol
 https://github.com/cvdlab-projects/webmol
 8. molcalc
+http://172.16.11.179:8008/molcalc </br>
 https://github.com/jensengroup/molcalc
 9. molview
-http://172.16.11.179:8008/molcalc </br>
 http://molview.org 
