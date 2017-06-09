@@ -18,4 +18,5 @@ https://github.com/cvdlab-projects/webmol
 8. molcalc
 https://github.com/jensengroup/molcalc
 9. molview
-http://molview.org
+http://172.16.11.179:8008/molcalc </br>
+http://molview.org 
