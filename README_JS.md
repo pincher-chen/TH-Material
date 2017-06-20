@@ -24,3 +24,14 @@ http://molview.org
 http://webglmol.osdn.jp/index-en.html
 11. rescale
 https://platform.rescale.com
+
+
+# upload files
+1. 
+https://github.com/hogenwang/beego-ueditor
+
+2.
+https://github.com/sthielen/BigUpload
+
+3.
+https://github.com/phpinside/ajaxUploadFile
