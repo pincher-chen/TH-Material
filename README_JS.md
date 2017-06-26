@@ -24,6 +24,8 @@ http://molview.org
 http://webglmol.osdn.jp/index-en.html
 11. rescale
 https://platform.rescale.com
+12. for vasp
+https://github.com/hzhangxyz/Visual-CONTCAR
 
 
 # upload files
