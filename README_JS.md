@@ -44,3 +44,6 @@ https://github.com/phpinside/ajaxUploadFile
 # header && footer format
 1.
 https://github.com/ShaorxCN/photoShare
+
+# angular.js vs react.js
+https://hackernoon.com/reactjs-vs-angular-comparison-which-is-better-805c0b8091b1
