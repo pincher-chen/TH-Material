@@ -28,6 +28,8 @@ https://platform.rescale.com
 https://github.com/hzhangxyz/Visual-CONTCAR
 13.
 https://github.com/mohebifar/molcanvas.js
+14. Kekule.js
+http://partridgejiang.github.io/Kekule.js/
 
 view atomic electronic-stucture on web
 
