@@ -52,3 +52,6 @@ https://hackernoon.com/reactjs-vs-angular-comparison-which-is-better-805c0b8091b
 
 # data viualization
 https://github.com/wcharczuk/go-chart
+
+# go package-example
+https://github.com/radovskyb/go-packages
