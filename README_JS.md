@@ -56,6 +56,11 @@ view atomic electronic-stucture on web
 * 点击angle后，选择三个原子可以显示原子的角度；
 * 点击dihedral,选择四个原子可以显示原子的二面角。
 
+5.显示晶格参数
+* 晶格边长
+* 晶格角度
+
+
 # upload files
 1. 
 https://github.com/hogenwang/beego-ueditor
