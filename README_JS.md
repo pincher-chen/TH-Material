@@ -37,6 +37,20 @@ http://nglviewer.org/ngl/
 
 view atomic electronic-stucture on web
 
+# 开发计划
+1.从前端读入文件方式：
+* 打开本地文本（支持cif/mol/sdf格式）；
+* 直接贴入字符串。
+
+2.支持晶体结构相关操作
+* 切面；
+* 建立超晶包；
+* 建立真空层。
+
+3.选定指定原子或原子团进行移动
+* 点击原子（可持续点击）后，被选定；
+* 移动方向（上/下/左/右），并且可以设定指定移动距离。
+
 # upload files
 1. 
 https://github.com/hogenwang/beego-ueditor
