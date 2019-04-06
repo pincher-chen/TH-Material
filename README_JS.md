@@ -51,6 +51,11 @@ view atomic electronic-stucture on web
 * 点击原子（可持续点击）后，被选定；
 * 移动方向（上/下/左/右），并且可以设定指定移动距离。
 
+4.显示指定原子的距离/角度/二面角
+* 点击length后，选择两个原子可以显示原子距离（距离用虚线表示）；
+* 点击angle后，选择三个原子可以显示原子的角度；
+* 点击dihedral,选择四个原子可以显示原子的二面角。
+
 # upload files
 1. 
 https://github.com/hogenwang/beego-ueditor
