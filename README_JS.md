@@ -146,7 +146,8 @@ S 0.38987 0.38987 0.38987
 * 建立超晶包；
 * 建立真空层。
 
-参考文献：https://www.sciencedirect.com/science/article/pii/S003960281300160X
+参考文献：https://www.sciencedirect.com/science/article/pii/S003960281300160X  
+文章附件信息有matlab代码。
 
 3.选定指定原子或原子团进行移动
 * 点击原子（可持续点击）后，被选定；
