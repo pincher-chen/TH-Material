@@ -147,6 +147,9 @@ S 0.38987 0.38987 0.38987
 
 格式转换：http://home.ustc.edu.cn/~lipai/scripts/vasp_scripts/bash_cif2pos.html
 
+文件格式描述：http://kuaibao.qq.com/s/20190103A07BWG00?refer=spider
+
+
 2.支持晶体结构相关操作
 * 切面；
 * 建立超晶包；
