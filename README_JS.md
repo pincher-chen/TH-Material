@@ -141,7 +141,9 @@ S 0.38987 0.38987 0.38987
 
 ```
 
-参考文献：https://nvlpubs.nist.gov/nistpubs/jres/101/3/j3brow.pdf
+参考文献：https://nvlpubs.nist.gov/nistpubs/jres/101/3/j3brow.pdf  
+
+参考代码：https://github.com/IkarosKappler/CIFFileReader.js
 
 2.支持晶体结构相关操作
 * 切面；
