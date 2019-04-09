@@ -44,7 +44,7 @@ view atomic electronic-stucture on web
 * 打开本地文本（支持cif/mol/sdf格式）；
 * 直接贴入字符串。
 
-An example for cif file format:
+An example for  Crystallographic Information Files （cif） file format:
 ```
 #------------------------------------------------------------------------------
 #$Date: 2016-02-18 13:08:31 +0200 (Thu, 18 Feb 2016) $
