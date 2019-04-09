@@ -145,6 +145,8 @@ S 0.38987 0.38987 0.38987
 
 参考代码：https://github.com/IkarosKappler/CIFFileReader.js
 
+格式转换：http://home.ustc.edu.cn/~lipai/scripts/vasp_scripts/bash_cif2pos.html
+
 2.支持晶体结构相关操作
 * 切面；
 * 建立超晶包；
