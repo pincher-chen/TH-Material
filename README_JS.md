@@ -45,6 +45,10 @@ http://nglviewer.org/ngl/
 
 21.  HTMoLAR  https://github.com/es605/HTMoLAR
 
+22. mmView  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094370/
+
+23. open-mx  http://www.openmx-square.org/viewer/index.html
+
 view atomic electronic-stucture on web
 
 # 开发计划
