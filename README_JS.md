@@ -37,6 +37,12 @@ http://nglviewer.org/ngl/
 
 17. CH5M3D  https://sourceforge.net/projects/ch5m3d/
 
+18. Molmil  https://github.com/gjbekker/molmil/
+
+19.  iCn3D  https://www.ncbi.nlm.nih.gov/Structure/icn3d/docs/icn3d_about.html
+
+20.  Web3DMol https://www.researchgate.net/publication/316843332_Web3DMol_Interactive_protein_structure_visualization_based_on_WebGL
+
 view atomic electronic-stucture on web
 
 # 开发计划
@@ -296,3 +302,6 @@ https://github.com/wcharczuk/go-chart
 
 # go package-example
 https://github.com/radovskyb/go-packages
+
+MDTraj: A Modern Open Library for the Analysis of Molecular Dynamics Trajectorier
+https://www.cell.com/biophysj/references/S0006-3495(15)00826-7
