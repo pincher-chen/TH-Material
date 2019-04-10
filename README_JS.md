@@ -254,6 +254,87 @@ Co1 Co2+ 0.00426(2) 0.00426(2) 0.00426(2) 0.00001(1) 0.00001(1) 0.00001(1)
 S1 S1- 0.00453(2) 0.00453(2) 0.00453(2) -0.00016(2) -0.00016(2) -0.00016(2)
 #End of TTdata_86351-ICSD
 ```
+An example for CIF file from CCDC:
+```
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ABAFOA
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   8.6031(3)
+_cell_length_b                   8.8247(3)
+_cell_length_c                   10.4609(4)
+_cell_angle_alpha                80.514(2)
+_cell_angle_beta                 87.499(2)
+_cell_angle_gamma                72.114(2)
+_cell_volume                     745.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.15482(15) 0.39757(15) 0.76616(11)
+C2 C 1.28283(17) 0.27239(16) 0.72999(13)
+H1 H 1.2641 0.1969 0.6851
+C3 C 1.43894(17) 0.26447(17) 0.76330(13)
+H2 H 1.5267 0.1814 0.7408
+C4 C 1.46875(17) 0.37727(17) 0.82957(13)
+H3 H 1.5755 0.3684 0.8503
+C5 C 1.34207(15) 0.50179(16) 0.86478(12)
+H4 H 1.3622 0.5774 0.9087
+C6 C 1.18294(15) 0.51223(14) 0.83321(11)
+C7 C 1.02493(14) 0.62392(14) 0.85320(11)
+C8 C 0.97472(15) 0.75589(15) 0.91712(12)
+H5 H 1.0505 0.7899 0.9561
+C9 C 0.80848(16) 0.83680(15) 0.92188(12)
+C10 C 0.69339(16) 0.78683(16) 0.86297(13)
+H6 H 0.5829 0.8431 0.8670
+C11 C 0.74155(16) 0.65580(16) 0.79929(13)
+H7 H 0.6653 0.6228 0.7599
+C12 C 0.90815(15) 0.57363(15) 0.79534(11)
+C13 C 0.91238(15) 0.35356(16) 0.67085(12)
+C14 C 0.81166(17) 0.43835(18) 0.56626(12)
+H8 H 0.7938 0.5487 0.5431
+C15 C 0.73821(18) 0.3594(2) 0.49679(13)
+H9 H 0.6688 0.4181 0.4282
+C16 C 0.76514(18) 0.1943(2) 0.52662(14)
+C17 C 0.86723(18) 0.11099(18) 0.63019(15)
+H10 H 0.8883 -0.0001 0.6512
+C18 C 0.93897(17) 0.18914(16) 0.70359(13)
+H11 H 1.0047 0.1313 0.7745
+C19 C 0.6847(3) 0.1091(3) 0.4495(2)
+H12 H 0.5682 0.1520 0.4557
+H13 H 0.7182 -0.0041 0.4832
+H14 H 0.7163 0.1249 0.3603
+C20 C 0.75645(17) 0.97199(16) 0.99028(14)
+N1 N 0.98705(12) 0.43589(13) 0.74328(10)
+N2 N 0.72084(16) 1.07784(16) 1.04614(14)
+
+#END
+
+```
+
 
 参考文献：https://nvlpubs.nist.gov/nistpubs/jres/101/3/j3brow.pdf  
 
