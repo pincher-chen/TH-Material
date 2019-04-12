@@ -335,6 +335,91 @@ N2 N 0.72084(16) 1.07784(16) 1.04614(14)
 
 ```
 
+Another no-cubic box CIF file example from CCDC:
+```
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_ZZZZCB03
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_symmetry_Int_Tables_number      2
+_space_group_name_Hall           '-P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a                   13.442(4)
+_cell_length_b                   4.869(2)
+_cell_length_c                   12.192(2)
+_cell_angle_alpha                88.58(2)
+_cell_angle_beta                 116.76(2)
+_cell_angle_gamma                88.91(2)
+_cell_volume                     711.869
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.09200 0.24010 0.02210
+O2 O -0.05660 0.14830 -0.15270
+O3 O 0.15950 1.03250 -0.35780
+C1 C 0.06400 0.48780 -0.15910
+C2 C 0.00490 0.51950 -0.28690
+C3 C 0.03820 0.70610 -0.35000
+C4 C 0.13160 0.85840 -0.28720
+C5 C 0.19040 0.83250 -0.15970
+C6 C 0.15530 0.64660 -0.09770
+C7 C 0.03370 0.28130 -0.09030
+C8 C 0.25940 1.18500 -0.29900
+C9 C 0.27600 1.34200 -0.39690
+C10 C 0.29400 1.16310 -0.48630
+C11 C 0.32630 1.32460 -0.57330
+C12 C 0.34720 1.14910 -0.66160
+C13 C 0.38520 1.31090 -0.74340
+C14 C 0.40390 1.13690 -0.83440
+C15 C 0.44790 1.30400 -0.91050
+H1 H -0.06800 0.41300 -0.33500
+H2 H -0.00200 0.72900 -0.43700
+H3 H 0.26100 0.95500 -0.11000
+H4 H 0.19300 0.62900 -0.00900
+H5 H 0.32300 1.06100 -0.25400
+H6 H 0.25300 1.30800 -0.23900
+H7 H 0.34000 1.47300 -0.35300
+H8 H 0.21200 1.47500 -0.44100
+H9 H 0.35000 1.03600 -0.44300
+H10 H 0.22900 1.06500 -0.53500
+H11 H 0.39600 1.44800 -0.52400
+H12 H 0.27200 1.47200 -0.61500
+H13 H 0.40200 1.00400 -0.61500
+H14 H 0.28200 1.03400 -0.71300
+H15 H 0.46000 1.41700 -0.68800
+H16 H 0.32700 1.48500 -0.78700
+H17 H 0.46100 0.98500 -0.78900
+H18 H 0.32300 1.04900 -0.88900
+H19 H 0.40100 1.48400 -0.96000
+H20 H 0.46700 1.15100 -0.97300
+H21 H 0.53000 1.38600 -0.86600
+H22 H -0.07100 -0.00600 -0.08900
+
+#END
+
+```
+
 
 参考文献：https://nvlpubs.nist.gov/nistpubs/jres/101/3/j3brow.pdf  
 
