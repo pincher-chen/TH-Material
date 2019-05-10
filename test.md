@@ -53,8 +53,12 @@ cublasSetStream(d, stream1);
 cublasZdotc(d, size1, r, 1, ar, 1, rar2_d);
 ```
 
-我能大概猜测出其目的是为了计算文档式（59）中的$r_{k+1}^{\dagger} A r_{k+1}$， 但由于我不知道矩阵`A`是怎么表示的，所以我也不能理解每一个核函数具体的操作是什么。上次收到回复说`bmat1`和`bmat2`是在计算$B(\tau)*vec(\tau)$和$B(\tau)*vec(\tau+1)$。
+我能大概推测出其目的是为了计算文档式（59）中的$r_{k+1}^{\dagger} A r_{k+1}$， 但由于我不知道矩阵`A`是怎么表示的，所以我也不能理解每一个核函数具体的操作是什么。
+
+* 请问能将上文代码中的每一步表达成数学公式吗？这样能方便我理解每一个核函数在做什么操作。
+
+上次收到回复说`bmat1`和`bmat2`是在计算$B(\tau)*vec(\tau)$和$B(\tau)*vec(\tau+1)$。
 
 * 请问$B(\tau)$是输入中的哪一个变量？
 * $vec(\tau)$是输入中的哪一个变量？
-* 计算$B(\tau)*vec(\tau)$和$B(\tau)*vec(\tau+1)$是 Conjugate Residual Method 迭代步骤的式（54）-（62）的哪一步（因为没有看到这样的步骤）？
+* 计算$B(\tau)*vec(\tau)$和$B(\tau)*vec(\tau+1)$是 Conjugate Residual Method 迭代步骤的式（54）-（62）的哪一步（因为没有看到这样的步骤）？计算他们的目的是为了计算$r_{k+1}^{\dagger} A r_{k+1}$吗？
