@@ -437,7 +437,18 @@ H22 H -0.07100 -0.00600 -0.08900
 
 参考文献：https://www.sciencedirect.com/science/article/pii/S003960281300160X  
 文章附件信息有matlab代码。
+```
+Pymatgen:
+https://github.com/materialsproject/pymatgen
+$ vi core/surface.py
+...
+687 class SlabGenerator:
+..
 
+Aflow:
+http://materials.duke.edu/AFLOW/
+$ vi aflow_surface.cpp
+```
 3.选定指定原子或原子团进行移动
 * 点击原子（可持续点击）后，被选定；
 * 移动方向（上/下/左/右），并且可以设定指定移动距离。
